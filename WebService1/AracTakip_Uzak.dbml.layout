@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AracTakip_Uzak">
+  <DataContextMoniker Name="/AracTakip_UzakDataContext" />
+  <nestedChildShapes>
+    <classShape Id="4e560855-6404-49ad-a2f8-35ef3279a0f0" absoluteBounds="0.75, 0.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/AracTakip_UzakDataContext/Locking" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2f985044-898d-4ea4-b84e-4560322c4d8c" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b4e87a2e-78b3-4cd2-a34c-c6fbdd7ff097" absoluteBounds="3.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/AracTakip_UzakDataContext/Track_PortPlaka" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a42280d4-50d3-42de-a4d3-a327a4af955c" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c893cbfe-c7a2-497f-a12e-0d21b0e7a3e4" absoluteBounds="0.75, 3.75, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/AracTakip_UzakDataContext/Track_LocationInf" />
+      <nestedChildShapes>
+        <elementListCompartment Id="71e8d25f-d8fc-4a77-b119-0e48cf043eef" absoluteBounds="0.765, 4.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
